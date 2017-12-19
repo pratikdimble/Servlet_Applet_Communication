@@ -1,0 +1,2 @@
+# Servlet_Applet_Communication
+Similar to HTML-to-servlet communication we need to perform applet-to servlet communication. In HTML-to-servlet communication the browser window automatically forms request URL and automatically forms query string having form data, when submit button is clicked. In applet-to-servlet communication all these activities should be taken care of by the programmers manually or explicitly as event handling operation.
